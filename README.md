@@ -3,4 +3,4 @@
 App hỗ trợ đăng nhập đăng ký , xem bài tập , xem huấn luyện viên, bình luận , đánh giá bài tập 
 Chức năng đặt lịch qua Firebase Đi kèm vs app là Web Admin
 Link source code web Admin :
-https://github.com/vuongpn/WebAdminTapGym
+https://github.com/vuongpn/WebAdminGym
