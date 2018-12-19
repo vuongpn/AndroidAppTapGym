@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">BÀI TẬP</string>
+    <string name="app_sub_name">App TẬP THỂ HÌNH</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="isRTL">false</string>
+
+
+    <string name="play_more_app">https://play.google.com/store/search?q=facebook</string>
+
+    <string name="action_settings">Cài đặt</string>
+    <string name="home">Trang chủ</string>
+    <string name="latest">Mới nhất</string>
+    <string name="category">Danh mục</string>
+    <string name="author">Huấn Luyện Viên </string>
+    <string name="about_us">Thông tin</string>
+    <string name="privacy_policy">Chính sách</string>
+    <string name="toolbar_Title_AllComment">Tất cả bình luận</string>
+
+    <string name="Let_me_recommend_you_this_application">Let me recommend you this application</string>
+    <string name="internet_connection">Internet connection not available</string>
+    <string name="internet_connection_message">Internet connection not available check your internet connection</string>
+    <string name="Please_click_BACK_again_to_exit">Please click BACK again to exit</string>
+    <string name="cannot_use_save_permission">Can not use Share futcher</string>
+    <string name="exit">Exit</string>
+
+    <string name="no_data">No Data</string>
+    <string name="main_activity">Main Activity Android E Book</string>
+
+    <!--<about_us.xml string>-->
+    <string name="app_name_about_us">Vương</string>
+    <string name="about_us_version">Phiên bản</string>
+    <string name="about_us_version_text">6.9.9.6</string>
+    <string name="about_us_author">Tác giả</string>
+    <string name="about_us_Company">Trường</string>
+    <string name="about_us_company_name">Đh Bách Khoa Đà Nẵng</string>
+    <string name="about_us_email">Email</string>
+    <string name="about_us_email_text">trantungvuong@gmail.com</string>
+    <string name="about_us_website">Website</string>
+    <string name="about_us_website_text">Fb.com/tran.tungvuong1</string>
+    <string name="about_us_contact">SDT</string>
+    <string name="about_us_contact_text">092.4444.313</string>
+    <string name="about_us_about">About</string>
+    <!--<about_us.xml string>-->
+
+    <string name="lorem">
+       Sự học như con thuyền đi trên dòng nc ngược ko tiến ắt sẽ lùi
+    </string>
+
+    <string name="add_to_favourite">Thêm vào list ưa thích</string>
+    <string name="remove_to_favourite">Xóa khỏi ưa thích</string>
+
+    <string name="logout">Đăng xuất</string>
+    <string name="email">Email</string>
+    <string name="remember_me">Nhớ đăng nhập</string>
+    <string name="button_text_login">đăng nhập</string>
+    <string name="button_text_register">đăng ký</string>
+    <string name="button_text_forgot_password">Quên MK?</string>
+    <string name="already_have_an_account_yet">Đã có tài khoản</string>
+    <string name="register_login_text">Đăng nhập</string>
+    <string name="submit">Hoàn tất</string>
+    <string name="password">Mật khẩu</string>
+    <string name="please_enter_email">Nhập email</string>
+    <string name="please_enter_password">nhập password</string>
+    <string name="please_enter_confirm_password">nhập lại pass</string>
+    <string name="name">Têm</string>
+    <string name="phoneNo">Số điện thoại</string>
+    <string name="please_enter_phone">Nhập sdt</string>
+    <string name="please_enter_name">Nhập tên</string>
+    <string name="latest_book">Bài tập mới nhất</string>
+    <string name="latest_youve_recently_read">Bài tập mới được thêm</string>
+    <string name="button_viewall_home">Xem hết</string>
+    <string name="top_100_for_your_autor">Top 100 Huấn Luyện Viên</string>
+    <string name="popular_books">Bài tập nổi tiếng</string>
+    <string name="stories_youve_recently_read">Bài tập đọc nhiều</string>
+    <string name="view_details">Xem chi tiết</string>
+    <string name="view">Xem</string>
+    <string name="text">4.5</string>
+    <string name="profile">Profile</string>
+    <string name="name_profile">Tên :-</string>
+    <string name="email_profile">Email :-</string>
+    <string name="password_profile">Mật khẩu :-</string>
+    <string name="confirm_password_profile">Xác nhận mật khẩu :-</string>
+    <string name="phone_profile">Sdt:-</string>
+    <string name="edit_profile">Sửa profile</string>
+    <string name="save_profile">sửa profile thành công</string>
+    <string name="button_text_skip">Bỏ qua</string>
+    <string name="view_number">125K</string>
+    <string name="password_and_confirmpassword_does_not_match">mật khẩu không khớp</string>
+    <string name="ok">ok</string>
+    <string name="date">28/7/2018</string>
+    <string name="description">Mô tả:-</string>
+    <string name="related_books">Bài tập liên quan</string>
+    <string name="stories_youve_related_read_books">Truyện liên quan</string>
+    <string name="button_view_all_scd">Xem tất cả</string>
+    <string name="comments">Bình luận:-</string>
+    <string name="login_failed">Đăng nhập thất bại</string>
+    <string name="items_string_category_adapter">items</string>
+    <string name="textView_forget_password">Quên mật khẩu</string>
+    <string name="not_found_relatedBook">Không tìm thấy sách</string>
+    <string name="no_comment_found">Không tìm thấy bình luận</string>
+    <string name="please_install_browser">Chưa cài gg drive</string>
+    <string name="please_install_browser_else_pdf_viewer">chưa cài google drive pdf viewer</string>
+    <string name="downloading">Downloading</string>
+    <string name="pdf_reader_notinstall">ko có trình đọc file pdf</string>
+    <string name="delete">Xóa</string>
+    <string name="menu_favorite">Ưa thích</string>
+    <string name="share">Chia sẻ</string>
+    <string name="read_book">Bài tập</string>
+    <string name="download_book">tải sách</string>
+    <string name="you_have_allready_download_book">Bạn đã tải Bài tập này rồi</string>
+    <string name="Today">Hôm nay</string>
+    <string name="raing">Liên hệ</string>
+    <string name="thanks_for_rating">Cảm ơn đã liên hệ</string>
+    <string name="you_have_not_login">Bạn chưa đăng nhập</string>
+    <string name="please_enter_comment">Nhập bình luận</string>
+    <string name="login">Đăng nhập</string>
+    <string name="iteam">Iteam</string>
+    <string name="loading">Đang tải..</string>
+
+</resources>

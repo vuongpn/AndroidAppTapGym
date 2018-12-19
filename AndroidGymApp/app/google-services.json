@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "906632688334",
+    "firebase_url": "https://qvexcercises.firebaseio.com",
+    "project_id": "qvexcercises",
+    "storage_bucket": "qvexcercises.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906632688334:android:ae6fe54ef65cae11",
+        "android_client_info": {
+          "package_name": "com.example.admin.androidebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906632688334-4n9l4m71s927j18v7sklc2rg13b419l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvfGRSTU0IumjXSjth42904Aiu6VZBEHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906632688334:android:643aafeb1d5b3edc",
+        "android_client_info": {
+          "package_name": "com.tungvuong.simpleloginregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906632688334-4n9l4m71s927j18v7sklc2rg13b419l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvfGRSTU0IumjXSjth42904Aiu6VZBEHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
